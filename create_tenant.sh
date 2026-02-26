@@ -1,4 +1,6 @@
 #!/bin/bash
+# Pending Tenant uploads logic see readme file
+# https://chatgpt.com/c/69883b8d-7c44-8321-b1a2-02005bd6c2a9
 
 SUBDOMAIN=$1
 DB_NAME="grocery_${SUBDOMAIN}_db"

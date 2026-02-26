@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Pending Tenant uploads logic see readme file
+# https://chatgpt.com/c/69883b8d-7c44-8321-b1a2-02005bd6c2a9
+
 #######################################################
 #       One time Tenant setup                         #
 #  Use create_tenant.sh script for create new tenant  #                           
